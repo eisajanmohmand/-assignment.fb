@@ -1,0 +1,13 @@
+body{
+    border: 1px solid black;
+    padding: 20px;
+    width: min-content;
+    text-align: center;
+    
+}
+.main{
+    background-color:white;
+}
+h1{
+    color: blue;
+}
